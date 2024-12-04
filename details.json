@@ -1,0 +1,202 @@
+[
+      {
+            "name": "John doe",
+            "email": "john@example.com",
+            "phone_number": "(123) 456-7890",
+            "address": "123 Main St, New York, NY 10001",
+            "City": "123 Main St",
+            "State": " New York",
+            "abbrevation": "NY",
+            "zipcode": "10001"
+      },
+      {
+            "name": "Jane smith",
+            "email": "jane.smith@email.com",
+            "phone_number": "(123) 456-7890",
+            "address": "456 Elm St, Los Angeles, CA 90001",
+            "City": "456 Elm St",
+            "State": " Los Angeles",
+            "abbrevation": "CA",
+            "zipcode": "90001"
+      },
+      {
+            "name": "John doe",
+            "email": "john@example.com",
+            "phone_number": "(123) 456-7890",
+            "address": "123 Main St, New York, NY 10001",
+            "City": "123 Main St",
+            "State": " New York",
+            "abbrevation": "NY",
+            "zipcode": "10001"
+      },
+      {
+            "name": "Emma brown",
+            "email": "emma_brown@hotmail.com",
+            "phone_number": "(132) 165-49870",
+            "address": "789 Pine Ave, Chicago, IL 60601",
+            "City": "789 Pine Ave",
+            "State": " Chicago",
+            "abbrevation": "IL",
+            "zipcode": "60601"
+      },
+      {
+            "name": "Liam jones",
+            "email": "liam.j@domain.org",
+            "phone_number": "(321) 654-9870",
+            "address": "321 Oak St, Houston, TX 77001",
+            "City": "321 Oak St",
+            "State": " Houston",
+            "abbrevation": "TX",
+            "zipcode": "77001"
+      },
+      {
+            "name": "Olivia johnson",
+            "email": "olivia.johnson@gmail.com",
+            "phone_number": "(321) 654-9870",
+            "address": "654 Maple Dr, Miami, FL 33101",
+            "City": "654 Maple Dr",
+            "State": " Miami",
+            "abbrevation": "FL",
+            "zipcode": "33101"
+      },
+      {
+            "name": "Noah williams",
+            "email": "noah.williams@yahoo.com",
+            "phone_number": "(987) 654-3210",
+            "address": "987 Cedar St, Seattle, WA 98101",
+            "City": "987 Cedar St",
+            "State": " Seattle",
+            "abbrevation": "WA",
+            "zipcode": "98101"
+      },
+      {
+            "name": "Ava taylor",
+            "email": "ava.t@company.com",
+            "phone_number": "(987) 654-3210",
+            "address": "654 Birch Rd, Boston, MA 02101",
+            "City": "654 Birch Rd",
+            "State": " Boston",
+            "abbrevation": "MA",
+            "zipcode": "02101"
+      },
+      {
+            "name": "Sophia harris",
+            "email": "sophia.harris@email.org",
+            "phone_number": "(178) 945-61230",
+            "address": "123 Aspen Ln, Denver, CO 80201",
+            "City": "123 Aspen Ln",
+            "State": " Denver",
+            "abbrevation": "CO",
+            "zipcode": "80201"
+      },
+      {
+            "name": "William moore",
+            "email": "william.moore@service.net",
+            "phone_number": "(789) 456-1230",
+            "address": "456 Willow Way, San Francisco, CA 94101",
+            "City": "456 Willow Way",
+            "State": " San Francisco",
+            "abbrevation": "CA",
+            "zipcode": "94101"
+      },
+      {
+            "name": "Isabella white",
+            "email": "isabella.white@gmail.com",
+            "phone_number": "(456) 789-1230",
+            "address": "789 Cypress Ct, Portland, OR 97201",
+            "City": "789 Cypress Ct",
+            "State": " Portland",
+            "abbrevation": "OR",
+            "zipcode": "97201"
+      },
+      {
+            "name": "James thomas",
+            "email": "james.thomas@email.com",
+            "phone_number": "(456) 789-1230",
+            "address": "123 Redwood Ave, Austin, TX 73301",
+            "City": "123 Redwood Ave",
+            "State": " Austin",
+            "abbrevation": "TX",
+            "zipcode": "73301"
+      },
+      {
+            "name": "Mia martin",
+            "email": "mia.martin@domain.com",
+            "phone_number": "(145) 678-91230",
+            "address": "456 Spruce St, Atlanta, GA 30301",
+            "City": "456 Spruce St",
+            "State": " Atlanta",
+            "abbrevation": "GA",
+            "zipcode": "30301"
+      },
+      {
+            "name": "Emily davis",
+            "email": "emily.davis@sample.com",
+            "phone_number": "(987) 654-3210",
+            "address": "789 Pine St, Chicago, IL 60601",
+            "City": "789 Pine St",
+            "State": " Chicago",
+            "abbrevation": "IL",
+            "zipcode": "60601"
+      },
+      {
+            "name": "John doe",
+            "email": "john@example.com",
+            "phone_number": "(112) 345-67890",
+            "address": "123 Main St, New York, NY 10001",
+            "City": "123 Main St",
+            "State": " New York",
+            "abbrevation": "NY",
+            "zipcode": "10001"
+      },
+      {
+            "name": "Michael brown",
+            "email": "michael_brown@domain.com",
+            "phone_number": "(987) 654-3210",
+            "address": "101 Oak St, Houston, TX 77001",
+            "City": "101 Oak St",
+            "State": " Houston",
+            "abbrevation": "TX",
+            "zipcode": "77001"
+      },
+      {
+            "name": "Jane smith",
+            "email": "jane.smith@email.com",
+            "phone_number": "(123) 456-7890",
+            "address": "456 Elm St, Los Angeles, CA 90001",
+            "City": "456 Elm St",
+            "State": " Los Angeles",
+            "abbrevation": "CA",
+            "zipcode": "90001"
+      },
+      {
+            "name": "Anna taylor",
+            "email": "annataylor@example.org",
+            "phone_number": "(456) 789-1234",
+            "address": "202 Maple St, Phoenix, AZ 85001",
+            "City": "202 Maple St",
+            "State": " Phoenix",
+            "abbrevation": "AZ",
+            "zipcode": "85001"
+      },
+      {
+            "name": "Chris green",
+            "email": "chris.green@domain.com",
+            "phone_number": "(145) 678-91234",
+            "address": "303 Birch St, Miami, FL 33101",
+            "City": "303 Birch St",
+            "State": " Miami",
+            "abbrevation": "FL",
+            "zipcode": "33101"
+      },
+      {
+            "name": "Michael brown",
+            "email": "michael_brown@domain.com",
+            "phone_number": "(987) 654-3210",
+            "address": "101 Oak St, Houston, TX 77001",
+            "City": "101 Oak St",
+            "State": " Houston",
+            "abbrevation": "TX",
+            "zipcode": "77001"
+      }
+]
